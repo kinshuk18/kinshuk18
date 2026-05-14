@@ -1,124 +1,24 @@
-# 👋 Hi, I'm Kinshuk Gupta  
+# 💫 About Me:
+I engineer intelligent systems that bridge the gap between complex data and real-world execution. As a Data Science & Artificial Intelligence undergrad at IIT Bhilai, I don't just train models—I build robust, hybrid pipelines handling everything from multimodal geospatial reasoning to emotional support dialogue architectures. I thrive in the terminal and live for algorithmic efficiency.<br><br>🔭 I’m currently working on:<br>Architecting vision-language systems like Vision42 for satellite imagery, supporting complex text-driven object grounding and VQA.<br><br>👯 I’m looking to collaborate on:<br>Bleeding-edge Computer Vision challenges, specifically involving YOLO-OBB and handling rotated objects with scale variability.<br><br>🤝 I’m looking for help with:<br>Scaling deep learning pipelines and optimizing Reinforcement Learning loops for production-level NLP systems.<br><br>🌱 I’m currently learning:<br>Pushing the limits of distributed data processing with Apache Spark and Kafka.<br><br>💬 Ask me about:<br>Engineering data pipelines to process Chandrayaan-2 CLASS XRF data, tackling Inter IIT Tech Meet problem statements (securing 6th and 11th ranks nationally), or crushing competitive programming boards.<br><br>⚡ Fun fact:<br>I crushed JEE Advanced with an AIR of 6309 and have shredded over 2,000 DSA problems across platforms. Bring on the hard questions.
 
-🎓 B.Tech in Data Science & Artificial Intelligence @ IIT Bhilai  
-🤖 Deep Learning • Computer Vision • Multimodal AI  
-🚀 Building research-driven intelligent systems  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kinshuk__18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kinshukgupta18/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kinshuk018) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kinshuk__18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kinshukgupta2004@gmail.com) 
 
-## 🧠 About Me  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kinshuk18&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kinshuk18&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kinshuk18&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-💡 I work at the intersection of:  
-- 🖼️ Vision-Language Models (VLMs)  
-- 🌍 Geospatial AI  
-- 💬 NLP with Reinforcement Learning  
-- ⚙️ Scalable ML Systems  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🧩 I enjoy designing systems that combine **theory + real-world complexity**, not just standard pipelines.  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Programming  
-`C++` • `Python` • `C`  
-
-### 🤖 Machine Learning & AI  
-`PyTorch` • `TensorFlow` • `scikit-learn` • `NumPy` • `Pandas`  
-
-### 👁️ Deep Learning & CV  
-`CNNs` • `RNNs` • `YOLO (OBB)` • `Multimodal Learning`  
-
-### 💬 NLP  
-`Transformers` • `Reinforcement Learning` • `COMET Reasoning`  
-
-### ⚙️ Tools & Systems  
-`Linux (Ubuntu)` • `Git` • `SQL` • `MongoDB` • `Power BI`  
-
-### 🧠 Core  
-📌 Data Structures & Algorithms (**2000+ problems solved**)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kinshuk18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kinshuk18&icon=2&color=8)](https://visitcount.itsvg.in)
 
-## 🚀 Projects  
-
-### 🌍 GeoNLI — Vision-Language for Geospatial Reasoning  
-🏆 *Inter IIT Tech Meet 14.0 (ISRO SAC) — Rank 6*  
-
-✨ Built **Vision42**, enabling:  
-- 📝 Image Captioning  
-- ❓ Visual Question Answering  
-- 🎯 Text-driven Object Grounding  
-
-⚙️ Key Work:  
-- YOLO-OBB for rotated object detection  
-- Multimodal fusion for reasoning  
-- Evaluated using 📊 IoU & BLEU-3  
-
----
-
-### 🌕 Lunar Surface Mapping (Chandrayaan-2 Data)  
-🏆 *Inter IIT Tech Meet 13.0 — Rank 11*  
-
-🚀 Highlights:  
-- Processed CLASS XRF data  
-- Applied clustering + spatial filtering  
-- ⚡ Accelerated pipeline using PyTorch parallelization  
-
----
-
-### 💬 CauESC — Emotional Support Dialogue System  
-
-🧠 Built a dialogue model with:  
-- 👤 Persona conditioning  
-- 🌐 COMET-based commonsense reasoning  
-
-⚙️ Innovations:  
-- Persona Attention Loop (PAL)  
-- Dual cross-attention decoder  
-- RL fine-tuning (REINFORCE)  
-
-📊 Results:  
-- BLEU-4: **3.92**  
-- ROUGE-L: **16.91**  
-
----
-
-## 🏆 Achievements  
-
-🥇 JEE Main: **99.20 percentile**  
-🎯 JEE Advanced: **AIR 6309**  
-💻 IICPC 2025 (IIT Madras): **Rank 1102 — Finalist**  
-🧠 Solved **2000+ DSA problems**  
-
----
-
-## 🧑‍💼 Positions of Responsibility  
-
-🎓 Mentor Coordinator — Student Mentorship Programme (2025–26)  
-🤝 Student Mentor (2024–25)  
-💡 Core Member — DSAI Club & Ingenuity Club  
-
----
-
-## 📈 Current Focus  
-
-🔬 Vision-Language Models  
-🧠 Advanced Deep Learning Architectures  
-⚙️ Research-oriented AI Systems  
-💻 Competitive Programming  
-
----
-
-## 🔗 Connect  
-
-💼 LinkedIn: https://www.linkedin.com/in/kinshukgupta18/  
-📧 Email: kinshukgupta2004@gmail.com  
-🐙 GitHub: https://github.com/kinshuk18  
-
----
- 
-
----
-
-⭐ *Consistency × Curiosity → Growth*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
