@@ -193,8 +193,8 @@ class KinshukGupta:
 
 <div align="center">
 
-[![Vision42](https://github-readme-stats.vercel.app/api/pin/?username=Uchihakamal1816&repo=Vision42&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Uchihakamal1816/Vision42)
-[![InterIIT Astro](https://github-readme-stats.vercel.app/api/pin/?username=VDNT11NULL&repo=InterIIT_Tech_Astro&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/VDNT11NULL/InterIIT_Tech_Astro)
+[![Vision42](https://img.shields.io/badge/🛰️_Vision42-Inter_IIT_14.0-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed)](https://github.com/Uchihakamal1816/Vision42)
+[![InterIIT Astro](https://img.shields.io/badge/🌕_Lunar_Mapping-Inter_IIT_13.0-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=00d4ff)](https://github.com/VDNT11NULL/InterIIT_Tech_Astro)
 
 </div>
 
