@@ -42,20 +42,6 @@ class KinshukGupta:
 
 ---
 
-<!-- C4GT BANNER -->
-<div align="center">
-
-### 🟢 Code for GovTech (C4GT) 2025 — Active Contributor
-
-![C4GT](https://img.shields.io/badge/C4GT%202025-Active%20Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20All%20In-ff4154?style=for-the-badge)
-
-> Contributing to GovTech open-source projects under the **Code for GovTech 2025** program — building real-world impact through government digital infrastructure.
-
-</div>
-
----
-
 <!-- ACHIEVEMENTS SECTION -->
 ## 🏆 Hall of Fame
 
