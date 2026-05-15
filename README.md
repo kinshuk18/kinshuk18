@@ -193,7 +193,8 @@ class KinshukGupta:
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=kinshuk18&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+[![Vision42](https://github-readme-stats.vercel.app/api/pin/?username=Uchihakamal1816&repo=Vision42&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Uchihakamal1816/Vision42)
+[![InterIIT Astro](https://github-readme-stats.vercel.app/api/pin/?username=VDNT11NULL&repo=InterIIT_Tech_Astro&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/VDNT11NULL/InterIIT_Tech_Astro)
 
 </div>
 
