@@ -1,24 +1,248 @@
-# 💫 About Me:
-I engineer intelligent systems that bridge the gap between complex data and real-world execution. As a Data Science & Artificial Intelligence undergrad at IIT Bhilai, I don't just train models—I build robust, hybrid pipelines handling everything from multimodal geospatial reasoning to emotional support dialogue architectures. I thrive in the terminal and live for algorithmic efficiency.<br><br>🔭 I’m currently working on:<br>Architecting vision-language systems like Vision42 for satellite imagery, supporting complex text-driven object grounding and VQA.<br><br>👯 I’m looking to collaborate on:<br>Bleeding-edge Computer Vision challenges, specifically involving YOLO-OBB and handling rotated objects with scale variability.<br><br>🤝 I’m looking for help with:<br>Scaling deep learning pipelines and optimizing Reinforcement Learning loops for production-level NLP systems.<br><br>🌱 I’m currently learning:<br>Pushing the limits of distributed data processing with Apache Spark and Kafka.<br><br>💬 Ask me about:<br>Engineering data pipelines to process Chandrayaan-2 CLASS XRF data, tackling Inter IIT Tech Meet problem statements (securing 6th and 11th ranks nationally), or crushing competitive programming boards.<br><br>⚡ Fun fact:<br>I crushed JEE Advanced with an AIR of 6309 and have shredded over 2,000 DSA problems across platforms. Bring on the hard questions.
+<div align="center">
 
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=KINSHUK%20GUPTA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=⚡%20AI%20Engineer%20%7C%20Vision%20Systems%20%7C%20IIT%20Bhilai&descAlignY=58&descSize=18&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kinshuk__18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kinshukgupta18/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kinshuk018) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kinshuk__18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kinshukgupta2004@gmail.com) 
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Vision-Language+Systems+%F0%9F%9B%B8;Satellite+Imagery+%2B+AI+%3D+Vision42+%F0%9F%8C%8D;2000%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F;Inter+IIT+Tech+Meet+%7C+ISRO+Problem+Statements;C4GT+2025+%E2%80%94+Open+Source+Contributor+%F0%9F%9F%A2;JEE+Advanced+AIR+6309+%7C+99.20+Percentile" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kinshuk18&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kinshuk18&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kinshuk18&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- QUICK BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinshukgupta18/)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kinshuk18)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kinshuk18)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kinshuk018)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinshukgupta2004@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kinshuk18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=kinshuk18&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ABOUT ME SECTION -->
+## ⚡ `whoami`
+
+```python
+class KinshukGupta:
+    institute  = "IIT Bhilai — BTech, Data Science & AI  (2023–2027)"
+    cgpa       = 8.48
+    location   = "Bhilai, Chhattisgarh 🇮🇳"
+
+    currently_building = [
+        "Vision42 — Vision-Language System for Satellite Imagery (ISRO SAC)",
+        "CauESC — RL + Persona-Attention for Emotional Support Dialogue",
+    ]
+
+    open_to    = ["CV Research Collabs", "YOLO-OBB / Rotated Object Detection", "Open Source (C4GT 🟢)"]
+    obsessions = ["Algorithmic Efficiency", "Multimodal AI", "Big Data Pipelines"]
+    fun_fact   = "2000+ DSA problems solved. Still not enough. 💀"
+```
+
+---
+
+<!-- C4GT BANNER -->
+<div align="center">
+
+### 🟢 Code for GovTech (C4GT) 2025 — Active Contributor
+
+![C4GT](https://img.shields.io/badge/C4GT%202025-Active%20Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20All%20In-ff4154?style=for-the-badge)
+
+> Contributing to GovTech open-source projects under the **Code for GovTech 2025** program — building real-world impact through government digital infrastructure.
+
+</div>
+
+---
+
+<!-- ACHIEVEMENTS SECTION -->
+## 🏆 Hall of Fame
+
+<div align="center">
+
+| 🥇 Achievement | 🔢 Result |
+|---|---|
+| **JEE Advanced** | AIR **6309** |
+| **JEE Main** | **99.20** Percentile |
+| **Inter IIT Tech Meet 14.0** — ISRO SAC GeoNLI | 🥈 **6th Rank** Nationally |
+| **Inter IIT Tech Meet 13.0** — ISRO Lunar Mapping | 🏅 **11th Rank** Nationally |
+| **ICPC 2025** — Shaastra (IIT Madras) | Rank **1102** + Finalist |
+| **The Forge Hackathon** — OpenLake × GDG Meraz 6.0 | 🥉 **3rd Position** |
+| **DSA Problems Solved** | **2000+** across platforms |
+
+</div>
+
+---
+
+<!-- PROJECTS SECTION -->
+## 🛸 Flagship Projects
+
+<details open>
+<summary><b>🛰️ Vision42 — Satellite Vision-Language System (ISRO SAC × Inter IIT 14.0)</b></summary>
+<br/>
+
+> **Stack:** `Python` `FastAPI` `OpenCV` `YOLO-OBB` `VLMs` `Multimodal Fusion`
+
+- Architected a **vision–language system** for satellite imagery supporting **image captioning, VQA, and text-driven object grounding**
+- Designed a **hybrid OBB + multimodal fusion pipeline** handling rotated objects and scale variability  
+- Evaluated on **IoU** and **BLEU-3** metrics — **Secured 6th Rank nationally**
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-161b22?style=flat-square&logo=github)](https://github.com/kinshuk18)
+
+</details>
+
+<details>
+<summary><b>🌕 Lunar Surface Mapping — Chandrayaan-2 XRF Data (ISRO × Inter IIT 13.0)</b></summary>
+<br/>
+
+> **Stack:** `Python` `NumPy` `SciPy` `Astropy` `PyTorch` `QGIS`
+
+- Engineered a pipeline to process **Chandrayaan-2 CLASS XRF data** → high-resolution **lunar elemental composition maps**
+- Custom **clustering + spatial filtering** to resolve noise and overlapping scan regions
+- Accelerated with **PyTorch parallelization** — **Secured 11th Rank nationally**
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-161b22?style=flat-square&logo=github)](https://github.com/kinshuk18)
+
+</details>
+
+<details>
+<summary><b>💬 CauESC — RL + Persona-Attention for Emotional Support Dialogue</b></summary>
+<br/>
+
+> **Stack:** `Python` `PyTorch` `Transformers` `Reinforcement Learning` `NLP`
+
+- Enhanced **emotional support dialogue** with **COMET-based commonsense reasoning** + persona conditioning
+- Designed **Persona Attention Loop (PAL)** — dual cross-attention decoder for strategy-aware response generation
+- Two-stage training: **MLE (pointer-generator) + REINFORCE RL**
+- Achieved **BLEU-4: 3.92**, **ROUGE-L: 16.91** on ESConv dataset
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-161b22?style=flat-square&logo=github)](https://github.com/kinshuk18)
+
+</details>
+
+<details>
+<summary><b>📚 StudySphere — Focus Efficiency Hackathon App (3rd Place, Meraz 6.0)</b></summary>
+<br/>
+
+> **Stack:** `React` `Vite` `JavaScript`
+
+- Built a productivity application featuring a custom **'Focus Efficiency' algorithm** to quantify user behaviour
+- Won **3rd Position** at The Forge Hackathon (OpenLake × GDG)
+
+</details>
+
+---
+
+<!-- TECH STACK SECTION -->
+## 🧠 Tech Arsenal
+
+<div align="center">
+
+**AI / ML / DL**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+**Big Data & Cloud**  
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**Tools & Infra**  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<!-- GITHUB STATS SECTION -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=kinshuk18&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kinshuk18&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=kinshuk18&theme=github-dark-blue&hide_border=true&fire=00d4ff&ring=7c3aed&currStreakLabel=00d4ff" />
+
+</div>
+
+---
+
+<!-- COMPETITIVE PROGRAMMING SECTION -->
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kinshuk18?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0)](https://leetcode.com/kinshuk18)
+
+| Platform | Handle | Highlight |
+|---|---|---|
+| 🟡 **LeetCode** | kinshuk18 | 2000+ problems solved |
+| 🔵 **Codeforces** | kinshuk018 | ICPC Qualifier |
+| 🟠 **CodeChef** | kinshuk018 | — |
+| 🟢 **GFG** | kinshuk18 | — |
+
+</div>
+
+---
+
+<!-- TOP CONTRIBUTED REPOS SECTION -->
+## 🔝 Top Contributions
+
+<div align="center">
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=kinshuk18&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
+
+---
+
+<!-- CURRENTLY LEARNING / ACTIVITY GRAPH -->
+## 🌱 Currently Exploring
+
+```
+📡  Distributed Systems     ████████████░░░░   Apache Spark + Kafka at scale
+🛰️  Vision-Language Models  ███████████░░░░░   Beyond CLIP — custom VLMs
+🤖  RL for NLP              ████████░░░░░░░░   Production-grade REINFORCE loops
+🟢  C4GT Open Source        ████████████░░░░   GovTech contributions live!
+```
+
+---
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinshuk18&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/kinshuk18)
+
+</div>
+
+---
+
+<!-- QUOTE + FOOTER -->
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kinshuk18&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" />
+
+</div>
