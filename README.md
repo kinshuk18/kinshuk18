@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=KINSHUK%20GUPTA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=⚡%20AI%20Engineer%20%7C%20Vision%20Systems%20%7C%20IIT%20Bhilai&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=KINSHUK%20GUPTA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=⚡%20AI%20&%20Data%20Science%20%7C%20IIT%20Bhilai&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Vision-Language+Systems+%F0%9F%9B%B8;Satellite+Imagery+%2B+AI+%3D+Vision42+%F0%9F%8C%8D;2000%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F;Inter+IIT+Tech+Meet+%7C+ISRO+Problem+Statements;C4GT+2025+%E2%80%94+Open+Source+Contributor+%F0%9F%9F%A2;JEE+Advanced+AIR+6309+%7C+99.20+Percentile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Vision-Language+Systems+🛰️;Satellite+Imagery+%2B+AI+%3D+Vision42+🌍;2000%2B+DSA+Problems+Solved+⚔️;Inter+IIT+Tech+Meet+%7C+ISRO+Problem+Statements;Targeting+C4GT+2025+—+Open+Source+🟢;JEE+Advanced+AIR+6309+%7C+99.20+Percentile" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- QUICK BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinshukgupta18/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kinshuk18)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kinshuk18)
@@ -21,12 +18,11 @@
 
 ---
 
-<!-- ABOUT ME SECTION -->
-## ⚡ `whoami`
+# ⚡ `whoami`
 
 ```python
 class KinshukGupta:
-    institute  = "IIT Bhilai — BTech, Data Science & AI  (2023–2027)"
+    institute  = "IIT Bhilai — BTech, Data Science & AI (2023–2027)"
     cgpa       = 8.48
     location   = "Bhilai, Chhattisgarh 🇮🇳"
 
@@ -35,214 +31,171 @@ class KinshukGupta:
         "CauESC — RL + Persona-Attention for Emotional Support Dialogue",
     ]
 
-    open_to    = ["CV Research Collabs", "YOLO-OBB / Rotated Object Detection", "Open Source (C4GT 🟢)"]
-    obsessions = ["Algorithmic Efficiency", "Multimodal AI", "Big Data Pipelines"]
-    fun_fact   = "2000+ DSA problems solved. Still not enough. 💀"
+    open_to = [
+        "C4GT 2025 Opportunities 🟢",
+        "CV/NLP Research Collabs",
+        "Software Engineering Roles"
+    ]
+
+    obsessions = [
+        "Algorithmic Efficiency",
+        "Multimodal AI",
+        "Big Data Pipelines"
+    ]
+
+    fun_fact = "2000+ DSA problems solved. Still not enough. 💀"
 ```
 
 ---
 
-<!-- C4GT BANNER -->
-<div align="center">
+# 🟢 Target: Code for GovTech (C4GT) 2025
 
-### 🟢 Code for GovTech (C4GT) 2025 — Active Contributor
-
-![C4GT](https://img.shields.io/badge/C4GT%202025-Active%20Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20All%20In-ff4154?style=for-the-badge)
-
-> Contributing to GovTech open-source projects under the **Code for GovTech 2025** program — building real-world impact through government digital infrastructure.
-
-</div>
+Passionate about building highly scalable, open-source digital public goods. Equipped with a strong foundation in Python, FastAPI, Big Data (Spark/Kafka), and AI modeling, I am actively seeking to contribute to government digital infrastructure through the C4GT 2025 program.
 
 ---
 
-<!-- ACHIEVEMENTS SECTION -->
-## 🏆 Hall of Fame
-
-<div align="center">
+# 🏆 Hall of Fame
 
 | 🥇 Achievement | 🔢 Result |
 |---|---|
-| **JEE Advanced** | AIR **6309** |
-| **JEE Main** | **99.20** Percentile |
-| **Inter IIT Tech Meet 14.0** — ISRO SAC GeoNLI | 🥈 **6th Rank** Nationally |
-| **Inter IIT Tech Meet 13.0** — ISRO Lunar Mapping | 🏅 **11th Rank** Nationally |
-| **ICPC 2025** — Shaastra (IIT Madras) | Rank **1102** + Finalist |
-| **The Forge Hackathon** — OpenLake × GDG Meraz 6.0 | 🥉 **3rd Position** |
-| **DSA Problems Solved** | **2000+** across platforms |
-
-</div>
+| JEE Advanced | AIR 6309 |
+| JEE Main | 99.20 Percentile |
+| Inter IIT Tech Meet 14.0 — ISRO SAC GeoNLI | 🥈 6th Rank Nationally |
+| Inter IIT Tech Meet 13.0 — ISRO Lunar Mapping | 🏅 11th Rank Nationally |
+| ICPC 2025 — Shaastra (IIT Madras) | Rank 1102 + Finalist |
+| The Forge Hackathon — OpenLake × GDG Meraz 6.0 | 🥉 3rd Position |
+| DSA Problems Solved | 2000+ across platforms |
 
 ---
 
-<!-- PROJECTS SECTION -->
-## 🛸 Flagship Projects
+# 🛸 Flagship Projects
 
-<details open>
-<summary><b>🛰️ Vision42 — Satellite Vision-Language System (ISRO SAC × Inter IIT 14.0)</b></summary>
-<br/>
+## 🛰️ Vision42 — Vision-Language System for Satellite Imagery
 
-> **Stack:** `Python` `FastAPI` `OpenCV` `YOLO-OBB` `VLMs` `Multimodal Fusion`
+**Stack:** `Python` `FastAPI` `OpenCV` `YOLO-OBB` `VLMs` `Multimodal Fusion`
 
-- Architected a **vision–language system** for satellite imagery supporting **image captioning, VQA, and text-driven object grounding**
-- Designed a **hybrid OBB + multimodal fusion pipeline** handling rotated objects and scale variability  
-- Evaluated on **IoU** and **BLEU-3** metrics — **Secured 6th Rank nationally**
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-161b22?style=flat-square&logo=github)](https://github.com/kinshuk18)
-
-</details>
-
-<details>
-<summary><b>🌕 Lunar Surface Mapping — Chandrayaan-2 XRF Data (ISRO × Inter IIT 13.0)</b></summary>
-<br/>
-
-> **Stack:** `Python` `NumPy` `SciPy` `Astropy` `PyTorch` `QGIS`
-
-- Engineered a pipeline to process **Chandrayaan-2 CLASS XRF data** → high-resolution **lunar elemental composition maps**
-- Custom **clustering + spatial filtering** to resolve noise and overlapping scan regions
-- Accelerated with **PyTorch parallelization** — **Secured 11th Rank nationally**
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-161b22?style=flat-square&logo=github)](https://github.com/kinshuk18)
-
-</details>
-
-<details>
-<summary><b>💬 CauESC — RL + Persona-Attention for Emotional Support Dialogue</b></summary>
-<br/>
-
-> **Stack:** `Python` `PyTorch` `Transformers` `Reinforcement Learning` `NLP`
-
-- Enhanced **emotional support dialogue** with **COMET-based commonsense reasoning** + persona conditioning
-- Designed **Persona Attention Loop (PAL)** — dual cross-attention decoder for strategy-aware response generation
-- Two-stage training: **MLE (pointer-generator) + REINFORCE RL**
-- Achieved **BLEU-4: 3.92**, **ROUGE-L: 16.91** on ESConv dataset
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-161b22?style=flat-square&logo=github)](https://github.com/kinshuk18)
-
-</details>
-
-<details>
-<summary><b>📚 StudySphere — Focus Efficiency Hackathon App (3rd Place, Meraz 6.0)</b></summary>
-<br/>
-
-> **Stack:** `React` `Vite` `JavaScript`
-
-- Built a productivity application featuring a custom **'Focus Efficiency' algorithm** to quantify user behaviour
-- Won **3rd Position** at The Forge Hackathon (OpenLake × GDG)
-
-</details>
+- Architected a vision–language system for satellite imagery supporting image captioning, VQA, and text-driven object grounding.
+- Designed a hybrid OBB + multimodal fusion pipeline handling rotated objects and scale variability.
+- Evaluated using IoU and BLEU-3 metrics — Secured 6th Rank nationally.
 
 ---
 
-<!-- TECH STACK SECTION -->
-## 🧠 Tech Arsenal
+## 🌕 Chandrayaan-2 Lunar Elemental Mapping
 
-<div align="center">
+**Stack:** `Python` `NumPy` `SciPy` `Astropy` `PyTorch` `QGIS`
 
-**AI / ML / DL**  
+- Engineered a data pipeline to process Chandrayaan-2 CLASS XRF data to generate high-resolution lunar elemental composition maps.
+- Designed custom clustering and spatial filtering techniques to resolve noise and overlapping scan regions.
+- Accelerated optimization using PyTorch parallelization — Secured 11th Rank nationally.
+
+---
+
+## 🤖 CauESC — RL + Persona-Attention Emotional Support Dialogue
+
+**Stack:** `Python` `PyTorch` `Transformers` `Reinforcement Learning` `NLP`
+
+- Enhanced emotional support dialogue with COMET-based commonsense reasoning and persona conditioning.
+- Designed Persona Attention Loop (PAL) with a dual cross-attention decoder for strategy-aware response generation.
+- Two-stage training: MLE (pointer-generator) + REINFORCE RL.
+- Achieved BLEU-4: 3.92, ROUGE-L: 16.91 on the ESConv dataset.
+
+---
+
+## ⚡ Focus Efficiency Productivity App
+
+**Stack:** `React` `Vite` `JavaScript`
+
+- Built a productivity application featuring a custom "Focus Efficiency" algorithm to quantify user behaviour.
+- Won 3rd Position at The Forge Hackathon (OpenLake × GDG).
+
+---
+
+# 🧠 Tech Arsenal
+
+## 🤖 AI / ML / CV / NLP
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+---
 
-**Big Data & Cloud**  
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+## 💻 Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## ⚙️ Big Data & Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**Tools & Infra**  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+---
+
+## 🗄️ Databases, Tools & Infra
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinshuk18&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshuk18&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kinshuk18&theme=tokyo-night&hide_border=true" />
+
 </div>
 
 ---
 
-<!-- GITHUB STATS SECTION -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=kinshuk18&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kinshuk18&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=kinshuk18&theme=github-dark-blue&hide_border=true&fire=00d4ff&ring=7c3aed&currStreakLabel=00d4ff" />
-
-</div>
-
----
-
-<!-- COMPETITIVE PROGRAMMING SECTION -->
-## ⚔️ Competitive Programming
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kinshuk18?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0)](https://leetcode.com/kinshuk18)
+# ⚔️ Competitive Programming
 
 | Platform | Handle | Highlight |
 |---|---|---|
-| 🟡 **LeetCode** | kinshuk18 | 2000+ problems solved |
-| 🔵 **Codeforces** | kinshuk018 | ICPC Qualifier |
-| 🟠 **CodeChef** | kinshuk018 | — |
-| 🟢 **GFG** | kinshuk18 | — |
-
-</div>
+| 🟡 LeetCode | `kinshuk18` | 2000+ problems solved |
+| 🔵 Codeforces | `kinshuk018` | ICPC Qualifier |
+| 🟠 CodeChef | `kinshuk018` | Dedicated Problem Solver |
+| 🟢 GeeksForGeeks | `kinshuk18` | Active Participant |
 
 ---
 
-<!-- TOP CONTRIBUTED REPOS SECTION -->
-## 🔝 Top Contributions
+# 🔝 Top Contributions
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=kinshuk18&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinshuk18&theme=tokyonight" />
 
 </div>
 
 ---
 
-<!-- CURRENTLY LEARNING / ACTIVITY GRAPH -->
-## 🌱 Currently Exploring
+# 🌱 Currently Exploring
 
-```
-📡  Distributed Systems     ████████████░░░░   Apache Spark + Kafka at scale
-🛰️  Vision-Language Models  ███████████░░░░░   Beyond CLIP — custom VLMs
-🤖  RL for NLP              ████████░░░░░░░░   Production-grade REINFORCE loops
-🟢  C4GT Open Source        ████████████░░░░   GovTech contributions live!
+```txt
+📡 Distributed Systems      ████████████░░░░   Apache Spark + Kafka + Hadoop at scale
+🛰️ Vision-Language Models   ███████████░░░░░   Beyond CLIP — YOLO-OBB & VLMs
+🤖 RL for NLP               ████████░░░░░░░░   Production-grade REINFORCE loops
+🟢 Open Source (C4GT)       ████████████░░░░   Prepping for major GovTech contributions
 ```
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinshuk18&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/kinshuk18)
-
-</div>
-
----
-
-<!-- QUOTE + FOOTER -->
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kinshuk18&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" />
+### ⚡ “Code. Research. Scale. Repeat.”
 
 </div>
