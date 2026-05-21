@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Vision-Language+Systems+%F0%9F%9B%B8;Satellite+Imagery+%2B+AI+%3D+Vision42+%F0%9F%8C%8D;2000%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F;Inter+IIT+Tech+Meet+%7C+ISRO+Problem+Statements;C4GT+2025+%E2%80%94+Open+Source+Contributor+%F0%9F%9F%A2;JEE+Advanced+AIR+6309+%7C+99.20+Percentile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Vision-Language+Systems+%F0%9F%9B%B8;Satellite+Imagery+%2B+AI+%3D+Vision42+%F0%9F%8C%8D;2000%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F;Inter+IIT+Tech+Meet+%7C+ISRO+Problem+Statements;JEE+Advanced+AIR+6309+%7C+99.20+Percentile" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +35,7 @@ class KinshukGupta:
         "CauESC — RL + Persona-Attention for Emotional Support Dialogue",
     ]
 
-    open_to    = ["CV Research Collabs", "YOLO-OBB / Rotated Object Detection", "Open Source (C4GT 🟢)"]
+    open_to    = ["CV Research Collabs", "YOLO-OBB / Rotated Object Detection", "Open Source"]
     obsessions = ["Algorithmic Efficiency", "Multimodal AI", "Big Data Pipelines"]
     fun_fact   = "2000+ DSA problems solved. Still not enough. 💀"
 ```
@@ -207,7 +207,6 @@ class KinshukGupta:
 📡  Distributed Systems     ████████████░░░░   Apache Spark + Kafka at scale
 🛰️  Vision-Language Models  ███████████░░░░░   Beyond CLIP — custom VLMs
 🤖  RL for NLP              ████████░░░░░░░░   Production-grade REINFORCE loops
-🟢  C4GT Open Source        ████████████░░░░   GovTech contributions live!
 ```
 
 ---
