@@ -53,7 +53,7 @@ class KinshukGupta:
 | **JEE Main** | **99.20** Percentile |
 | **Inter IIT Tech Meet 14.0** — ISRO SAC GeoNLI | 🥈 **6th Rank** Nationally |
 | **Inter IIT Tech Meet 13.0** — ISRO Lunar Mapping | 🏅 **11th Rank** Nationally |
-| **ICPC 2025** — Shaastra (IIT Madras) | Rank **1102** + Finalist |
+| **IICPC 2025** — Shaastra (IIT Madras) | Rank **1102** + Finalist |
 | **The Forge Hackathon** — OpenLake × GDG Meraz 6.0 | 🥉 **3rd Position** |
 | **DSA Problems Solved** | **2000+** across platforms |
 
