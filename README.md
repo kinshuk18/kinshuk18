@@ -37,7 +37,7 @@ class KinshukGupta:
 
     open_to    = ["CV Research Collabs", "YOLO-OBB / Rotated Object Detection", "Open Source"]
     obsessions = ["Algorithmic Efficiency", "Multimodal AI", "Big Data Pipelines"]
-    fun_fact   = "2000+ DSA problems solved. Still not enough. 💀"
+    fun_fact   = "2500+ DSA problems solved. Still not enough. 💀"
 ```
 
 ---
@@ -55,7 +55,7 @@ class KinshukGupta:
 | **Inter IIT Tech Meet 13.0** — ISRO Lunar Mapping | 🏅 **11th Rank** Nationally |
 | **IICPC 2025** — Shaastra (IIT Madras) | Rank **1102** + Finalist |
 | **The Forge Hackathon** — OpenLake × GDG Meraz 6.0 | 🥉 **3rd Position** |
-| **DSA Problems Solved** | **2000+** across platforms |
+| **DSA Problems Solved** | **2500+** across platforms |
 
 </div>
 
