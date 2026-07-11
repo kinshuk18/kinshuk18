@@ -27,7 +27,6 @@
 ```python
 class KinshukGupta:
     institute  = "IIT Bhilai — BTech, Data Science & AI  (2023–2027)"
-    cgpa       = 8.48
     location   = "Bhilai, Chhattisgarh 🇮🇳"
 
     currently_building = [
