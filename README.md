@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=KINSHUK%20GUPTA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=⚡%20AI%20Engineer%20%7C%20Vision%20%26%20Full-Stack%20Systems%20%7C%20IIT%20Bhilai&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=KINSHUK%20GUPTA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20AI%20Engineer%20%7C%20CV%2C%20Multimodal%20AI%20%26%20Full-Stack%20Systems%20%7C%20IIT%20Bhilai&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -30,7 +30,7 @@ class KinshukGupta:
     institute  = "IIT Bhilai — BTech, Data Science & AI (2023–2027)"
     location   = "Bhilai, Chhattisgarh 🇮🇳"
 
-    currently  = "AI Product Development Intern @ ARPN Consulting Services (STPI Bhilai)"
+    most_recent_role = "AI Product Development Intern @ ARPN Consulting Services (STPI Bhilai)"
 
     currently_building = [
         "Vision42 — Vision-Language System for Satellite Imagery (ISRO SAC)",
@@ -38,7 +38,7 @@ class KinshukGupta:
         "Enterprise Billing Dashboard — Flask + MySQL, PDF/DOCX invoice generation",
     ]
 
-    open_to    = ["CV / Medical Imaging Research Collabs", "YOLO-OBB / Rotated Object Detection", "Open Source", "Full-Stack + AI roles"]
+    open_to    = ["CV / Medical Imaging Research Collabs", "YOLO-OBB / Rotated Object Detection", "Open Source", "Full-Stack + AI Roles"]
     obsessions = ["Algorithmic Efficiency", "Multimodal AI", "Graph Neural Networks", "Big Data Pipelines"]
     fun_fact   = "2500+ DSA problems solved. Still not enough. 💀"
 ```
@@ -283,11 +283,24 @@ class KinshukGupta:
 
 ---
 
+## 🤝 Let's Connect & Build
+
+Actively exploring **Computer Vision, Vision-Language Systems, and Full-Stack AI Engineering** roles and collaborations — always up for a conversation on satellite imagery, medical imaging, or scaling ML pipelines end-to-end.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinshukgupta18/)
+[![Gmail](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinshukgupta2004@gmail.com)
+
+</div>
+
+---
+
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinshuk18&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/kinshuk18)
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kinshuk18&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/kinshuk18)
 
 <br/>
 
