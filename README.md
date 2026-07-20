@@ -27,7 +27,7 @@
 
 ```python
 class KinshukGupta:
-    institute  = "IIT Bhilai — BTech, Data Science & AI (2023–2027) | CGPA: 8.33"
+    institute  = "IIT Bhilai — BTech, Data Science & AI (2023–2027)"
     location   = "Bhilai, Chhattisgarh 🇮🇳"
 
     currently  = "AI Product Development Intern @ ARPN Consulting Services (STPI Bhilai)"
@@ -51,7 +51,7 @@ class KinshukGupta:
 
 | Institute | Degree | Score |
 |---|---|---|
-| **IIT Bhilai** | BTech, Data Science & AI (2023–27) | **CGPA 8.33** |
+| **IIT Bhilai** | BTech, Data Science & AI (2023–27) |
 | Kendriya Vidyalaya No. 1, Raipur | Senior Secondary (CBSE), 2022 | 94.6% |
 | Kendriya Vidyalaya No. 1, Raipur | Secondary (CBSE), 2020 | 94% |
 
