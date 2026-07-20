@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=KINSHUK%20GUPTA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20AI%20Engineer%20%7C%20CV%2C%20Multimodal%20AI%20%26%20Full-Stack%20Systems%20%7C%20IIT%20Bhilai&descAlignY=58&descSize=18&animation=fadeIn" />
+# ⚡ Kinshuk Gupta
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Vision-Language+Systems+%F0%9F%9B%B8;Satellite+Imagery+%2B+AI+%3D+Vision42+%F0%9F%8C%8D;fMRI+%2B+ML+%3D+Alzheimer's+Detection+%F0%9F%A7%A0;Shipping+Full-Stack+Enterprise+Dashboards+%F0%9F%92%BC;2500%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F;Inter+IIT+Tech+Meet+%7C+ISRO+Problem+Statements" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+CV%2C+Multimodal+AI+%26+Full-Stack+Systems;Building+Vision-Language+Systems+%F0%9F%9B%B8;Satellite+Imagery+%2B+AI+%3D+Vision42+%F0%9F%8C%8D;fMRI+%2B+ML+%3D+Alzheimer's+Detection+%F0%9F%A7%A0;Shipping+Full-Stack+Enterprise+Dashboards+%F0%9F%92%BC;2500%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F;Inter+IIT+Tech+Meet+%7C+ISRO+Problem+Statements" alt="Typing SVG" />
+
+<sub>IIT Bhilai · B.Tech Data Science &amp; AI · 2023–2027</sub>
 
 <br/>
 
-<!-- QUICK BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinshukgupta18/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kinshuk18)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kinshuk18/)
@@ -300,12 +297,14 @@ Actively exploring **Computer Vision, Vision-Language Systems, and Full-Stack AI
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinshuk18&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/kinshuk18)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=kinshuk18&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/kinshuk18)
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kinshuk18&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" />
+<br/><br/>
+
+<sub>⭐️ If any of this resonates, let's connect — always up for a good engineering conversation.</sub>
+
+**Kinshuk Gupta** · IIT Bhilai · [LinkedIn](https://www.linkedin.com/in/kinshukgupta18/) · [GitHub](https://github.com/kinshuk18)
 
 </div>
