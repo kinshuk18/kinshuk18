@@ -2,7 +2,7 @@
 
 # ⚡ Kinshuk Gupta
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+CV%2C+Multimodal+AI+%26+Full-Stack+Systems;Building+Vision-Language+Systems+%F0%9F%9B%B8;Satellite+Imagery+%2B+AI+%3D+Vision42+%F0%9F%8C%8D;fMRI+%2B+ML+%3D+Alzheimer's+Detection+%F0%9F%A7%A0;Shipping+Full-Stack+Enterprise+Dashboards+%F0%9F%92%BC;2500%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F;Inter+IIT+Tech+Meet+%7C+ISRO+Problem+Statements" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?bfont=JetBrains+Mono&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+CV%2C+Multimodal+AI+%26+Full-Stack+Systems;Building+Vision-Language+Systems+%F0%9F%9B%B8;Satellite+Imagery+%2B+AI+%3D+Vision42+%F0%9F%8C%8D;fMRI+%2B+ML+%3D+Alzheimer's+Detection+%F0%9F%A7%A0;Shipping+Full-Stack+Enterprise+Dashboards+%F0%9F%92%BC;2500%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F;Inter+IIT+Tech+Meet+%7C+ISRO+Problem+Statements" alt="Typing SVG" />
 
 <sub>IIT Bhilai · B.Tech Data Science &amp; AI · 2023–2027</sub>
 
@@ -25,9 +25,9 @@
 ```python
 class KinshukGupta:
     institute  = "IIT Bhilai — BTech, Data Science & AI (2023–2027)"
-    location   = "Bhilai, Chhattisgarh 🇮🇳"
+    location   = "Raipur, Chhattisgarh 🇮🇳"
 
-    most_recent_role = "AI Product Development Intern @ ARPN Consulting Services (STPI Bhilai)"
+    most_recent_role = "AI Product Development Intern @ ARPN Consulting Services (Software Technology Parks of India, Bhilai)"
 
     currently_building = [
         "Vision42 — Vision-Language System for Satellite Imagery (ISRO SAC)",
@@ -58,7 +58,7 @@ class KinshukGupta:
 
 ## 💼 Experience
 
-**AI Product Development Intern — ARPN Consulting Services (STPI, Bhilai)** · *May 2026 – Jul 2026*
+**AI Product Development Intern — ARPN Consulting Services (Software Technology Parks of India, Bhilai)** · *May 2026 – Jul 2026*
 - Architected an enterprise financial dashboard (Billing Application) for Customs claims — full-stack build on **Flask, Vanilla JS, HTML5, CSS3**
 - Engineered low-latency concurrent data fetching on the frontend; solved Docker network restrictions via Flask context processors for secure Base64 image injection and **PDF/DOCX generation**
 - Built a dynamic algorithm to parse edge-case financial data and deployed the containerized app to a staging cloud server under strict enterprise **GitOps** version control
